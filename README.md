@@ -1,7 +1,7 @@
 # GitHubNuestro
 Subida del ejercicio GitNuestro
 
-1. Pregunta 1:¿Qué comando utilizaste en el paso 11? ¿Por qué?
+1. ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
 	El comando utilizado ha sido **"git reset -hard HEAD~1"**.
 El enunciado indica que se han de deshacer los cambios perdiendo las 
