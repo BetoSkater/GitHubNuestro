@@ -1,4 +1,4 @@
-Git nuestro
+Git nuestro, el mejor de los rezos.
 
 *Git* nuestro que estas en los repos
 Comprimidos sean tus  *commits*
